@@ -46,13 +46,13 @@ zavražděné oči, vysezená odpoledne, rána plující
                      jak to, co bylo, a ty sis to  
                                                                      nezapamatoval.
 
-> Psát svému mrtvému otci  
->        znamená psát otci, který teprv bude,  
-> psát bohu, s kterým svedu boj  
->                                        a možná neprohraju.
+_Psát svému mrtvému otci  
+       znamená psát otci, který teprv bude,  
+psát bohu, s kterým svedu boj  
+                                       a možná neprohraju._
 
-> — Možná jsi už dávno prohrála, říká anděl,  
->       ale já ho neposlouchám.  
->              Možná neprohraju, říkám si,  
->                                              ale  
->                                              svedu boj.
+_— Možná jsi už dávno prohrála, říká anděl,  
+      ale já ho neposlouchám.  
+             Možná neprohraju, říkám si,  
+                                             ale  
+                                             svedu boj._

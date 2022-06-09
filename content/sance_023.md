@@ -33,12 +33,12 @@ a pijí kávu
 Otvírají ústa ale není slyšet  
 Proč zmizeli tak daleko?
 
-> Děti je namalovaly a teď  
-> kupují listí, prodávají písek  
-> Hrají si, že levá ruka  
-> dává peníze pravé ruce  
->                     za panenku z jitrocele  
->                     za nohu od bubáka  
->                     který je má rád! tak jako všichni  
-> Děti dovedou měšťáky  
-> až do bran království nebeského…
+_Děti je namalovaly a teď  
+kupují listí, prodávají písek  
+Hrají si, že levá ruka  
+dává peníze pravé ruce  
+                    za panenku z jitrocele  
+                    za nohu od bubáka  
+                    který je má rád! tak jako všichni  
+Děti dovedou měšťáky  
+až do bran království nebeského…_
