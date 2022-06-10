@@ -1,8 +1,9 @@
 ---
+title: Sklenění mrtví ve staré Polsce
 contentType: prose
 ---
 
-Sklenění mrtví ve staré Polsce
+<section>
 
 Žlutá hvězda září jak mor a rakovina  
 a je všitá do kůže a nebude  
@@ -54,3 +55,5 @@ odfoukávané lidmi
 a s kostkou cukru v zubech  
 sklenění mrtví celou noc  
 tiše pijí cikorku.
+
+</section>

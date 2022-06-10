@@ -1,8 +1,9 @@
 ---
+title: Já si tě najdu
 contentType: prose
 ---
 
-Já si tě najdu
+<section>
 
 Posbírám si tě, Bože, z modrého vlčího bobu a z dýmu  
 z komína chalupy,  
@@ -50,3 +51,5 @@ mezi nicotou a dobrem,
 mezi člověkem  
                              ukřižovaným mezi nimi a o své vůli,  
                              tak jako všude.
+
+</section>

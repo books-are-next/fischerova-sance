@@ -1,8 +1,9 @@
 ---
+title: "Po návratu z\_Řecka"
 contentType: prose
 ---
 
-Po návratu z Řecka
+<section>
 
 Kam dovidět? Rybník, malé oko země,  
 myslí, že nahoře  
@@ -36,3 +37,5 @@ slova pro davy mrtvých a nezrozených
 a sotva zrozených mláďat,  
 co ještě vědí: že jednou srdce přeskočí jazyk  
                           a člověk vypoví všecko —
+
+</section>

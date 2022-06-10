@@ -1,8 +1,9 @@
 ---
+title: "V\_tmavomodrém Babylóně"
 contentType: prose
 ---
 
-V tmavomodrém Babylóně
+<section>
 
 Proti úplně bílému nebi  
 je láska jenom  
@@ -17,3 +18,5 @@ protože jsi hlupák.
 — Nejsem!  
       Nejsem, já mám  
                         statečné srdce!
+
+</section>

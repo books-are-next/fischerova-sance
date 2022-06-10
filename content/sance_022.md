@@ -1,8 +1,9 @@
 ---
+title: Bylina Balan evin
 contentType: prose
 ---
 
-Bylina Balan evin
+<section>
 
 Balan evin  
 byla bylina  
@@ -24,3 +25,5 @@ jí nepomohla —
 ani ona nezmůže nic  
 proti zlu, jež se koná  
                                          z lásky.
+
+</section>

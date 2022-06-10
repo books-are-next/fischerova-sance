@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+<section>
 
 Ale já  
 jsem chtěla být jiná:  
@@ -13,3 +14,5 @@ tam v horizontu, který je
 polibkem oka co to vidí  
 a čisté přítomnosti zbavené citu  
                                       a lidské paměti.
+
+</section>

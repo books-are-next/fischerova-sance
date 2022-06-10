@@ -1,8 +1,9 @@
 ---
+title: Obitou věnci
 contentType: prose
 ---
 
-Obitou věnci
+<section>
 
 Ta touha sáhnout na sebe  
           v pruhovaných šatech na dětském kolotoči  
@@ -20,3 +21,5 @@ je touhou sáhnout v krvavý bok
                                                                              holuby  
                                 avšak obitou věnci a nehynoucí  
                                               vzpomínkou potomků.
+
+</section>

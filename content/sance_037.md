@@ -1,8 +1,9 @@
 ---
+title: "A\_všechno to vede na nebe Řecka"
 contentType: prose
 ---
 
-A všechno to vede na nebe Řecka
+<section>
 
 Nechme to odležet jako sýr,  
 jako všechny ty lidi, co byli krásní,  
@@ -23,3 +24,5 @@ a neumí nic jiného
 zlaté stíny na kopcích na zemi  
 kudy malé průvody kráčejí  
 svrhnout sochy knih.
+
+</section>

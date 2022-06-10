@@ -1,8 +1,9 @@
 ---
+title: Třicáté páté narozeniny
 contentType: prose
 ---
 
-Třicáté páté narozeniny
+<section>
 
 Roky vyplavené jak potoční kamení…  
 Mých pětatřicet let, které se pobily  
@@ -61,3 +62,5 @@ zapřažena do otázky
 a nad sebou meč tajemství  
 a srdce je klášterní zvon  
                   v hodině mezi mšemi
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+<section>
 
 Psát dopis mrtvému otci  
 Hledat ve zdi tajemství  
@@ -51,8 +52,14 @@ _Psát svému mrtvému otci
 psát bohu, s kterým svedu boj  
                                        a možná neprohraju._
 
+</section>
+
+<section>
+
 _— Možná jsi už dávno prohrála, říká anděl,  
       ale já ho neposlouchám.  
              Možná neprohraju, říkám si,  
                                              ale  
                                              svedu boj._
+
+</section>

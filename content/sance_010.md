@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+<section>
 
 Budeme tedy souzeni  
 jen podle svých skutků?  
@@ -29,3 +30,5 @@ Konec, kdy pluješ rozpažen
 v ledovém tichu vesmíru  
 a vrnění hvězd, těch koťat,  
 už neslyšíš…
+
+</section>

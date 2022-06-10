@@ -1,8 +1,9 @@
 ---
+title: Lesy šumí, větry vanou
 contentType: prose
 ---
 
-Lesy šumí, větry vanou
+<section>
 
 Je noc kdy otvírá se  
                                        nebi brána  
@@ -50,3 +51,5 @@ a řevu kameníků zchlastaných pivem
 ryjících do desky:  
                                    Lesy šumí, větry vanou,  
                                    sbohem a na shledanou!
+
+</section>

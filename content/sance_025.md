@@ -1,8 +1,9 @@
 ---
+title: "Voják v\_modré uniformě odpouštění"
 contentType: prose
 ---
 
-Voják v modré uniformě odpouštění
+<section>
 
 Každý den od rána  
           bohové odpouštějí nám  
@@ -26,3 +27,5 @@ a nevíš, kde zítra navážeš,
                                  kterou neobsáhneš,  
 jsi voják v modré uniformě  
                                                      odpouštění.
+
+</section>

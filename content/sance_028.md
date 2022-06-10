@@ -1,8 +1,9 @@
 ---
+title: Rybník Výskok
 contentType: prose
 ---
 
-Rybník Výskok
+<section>
 
 Krajina si vyskočila radostí  
          a byl z toho rybník.  
@@ -16,3 +17,5 @@ V rybníku kapři skákali radostí
                          Připoj počátek ke konci  
                          a nebuď smuten, i když tak opustíš  
                                                     cestu všech lidí
+
+</section>

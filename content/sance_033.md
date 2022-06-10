@@ -1,8 +1,9 @@
 ---
+title: Kdo jí ovoce jazyka?
 contentType: prose
 ---
 
-Kdo jí ovoce jazyka?
+<section>
 
 Copak to někdy byla možnost,  
 vzdát se hlupcům?  
@@ -33,3 +34,5 @@ a i kdyby vyhrálo, nedalo by se
 na to přistoupit, nikdy!  
 nedalo by se přistoupit na Nikdy  
 vlající v nalakovaném černém vesmíru
+
+</section>
