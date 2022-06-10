@@ -1,8 +1,9 @@
 ---
+title: Smrková smrt
 contentType: prose
 ---
 
-Smrková smrt
+<section>
 
 Tam roste  
 tvá smrt: na tom smrkovém kopci,  
@@ -44,3 +45,5 @@ a s jedním úsměvem jen pro tebe
 jen tobě úsměšek nebo pocta  
 v poslední chvíli  
 za voskovými zuby.
+
+</section>

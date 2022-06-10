@@ -1,8 +1,9 @@
 ---
+title: Šance
 contentType: prose
 ---
 
-Šance
+<section>
 
 Dej si!  
 Dej si tenhle dům  
@@ -42,3 +43,5 @@ A na to padá zlaté světlo
 vyšlapané nohama andělů…  
 Kdybychom pochopili jedinou věc až do konce,  
 svět by byl ztracen.
+
+</section>

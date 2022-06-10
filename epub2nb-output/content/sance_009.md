@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+<section>
 
 Tak bydlí  
 v minulosti všech lidí.  
@@ -51,3 +52,5 @@ bydlí nezjevná sláva stvoření,
 vzduchoprázdno,  
 na jehlách křepčící  
                                        přítomnost.
+
+</section>

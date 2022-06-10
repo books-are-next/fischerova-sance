@@ -1,9 +1,9 @@
 ---
+title: Na hradbách keltského města
 contentType: prose
 ---
 
-Na hradbách  
-keltského města
+<section>
 
 Když vlaje slunce, jsme bílé mávající  
                                                             prapory léta.  
@@ -35,3 +35,5 @@ jenom svým trváním:
 
 — Házet kamením na hradbách,  
       vlát jako bílé prapory léta!
+
+</section>

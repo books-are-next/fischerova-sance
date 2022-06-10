@@ -1,8 +1,9 @@
 ---
+title: Když chodil král Jeroboám
 contentType: prose
 ---
 
-Když chodil král Jeroboám
+<section>
 
 Bůh je veliký a je v něm místo  
 i pro tebe,  
@@ -44,3 +45,5 @@ je svoboda. Druhé jméno svobody
 je vina.  
 Neodloupnutelná jak kůže.  
 Kdy se rozzáří má jasná hvězda?
+
+</section>

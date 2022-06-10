@@ -1,8 +1,9 @@
 ---
+title: Řeč vodotrysků
 contentType: prose
 ---
 
-Řeč vodotrysků
+<section>
 
 Držela jsem ti zrcadlo a konečky oholených vousů  
 plavaly v mýdlové vodě  
@@ -50,3 +51,5 @@ Kdo uvidí, kdo uslyší
                                                               jako vrh kostek  
 Kdo vypoví mrtvé děti  
      na třaslavých píscích dějin…
+
+</section>

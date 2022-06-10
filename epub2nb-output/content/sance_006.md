@@ -1,8 +1,9 @@
 ---
+title: Řecko
 contentType: prose
 ---
 
-Řecko
+<section>
 
 Jako bedna na ohořelé svíce v pravoslavném kostele,  
 smutná a přece ne,  
@@ -45,3 +46,5 @@ vím, že je oko boha jak trychtýř soli
 a já že jsem člověk,  
 bez jména a vlasti,  
 odsouzený k jedné straně hranice.
+
+</section>

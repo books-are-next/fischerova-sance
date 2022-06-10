@@ -1,8 +1,9 @@
 ---
+title: Já
 contentType: prose
 ---
 
-Já
+<section>
 
 Hoří svíce  
 a není co říct Člověk je sám a smutný  
@@ -37,3 +38,5 @@ jak střečkem pobodávané smrtí —
 
 Já, konečná, nenahraditelná, dokonalá  
 tak jako všichni.
+
+</section>

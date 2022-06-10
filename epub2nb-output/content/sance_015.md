@@ -1,8 +1,9 @@
 ---
+title: Olomouc
 contentType: prose
 ---
 
-Olomouc
+<section>
 
 Domy jsou tu naskládané na sebe  
                       jak dýhy na dřevě,  
@@ -28,3 +29,5 @@ sen, o jakém jen snili —
          o jakém snili,  
          jaký se ani snem  
                      nedá vypovědět.
+
+</section>

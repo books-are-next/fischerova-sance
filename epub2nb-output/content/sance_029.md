@@ -1,8 +1,9 @@
 ---
+title: Vánoční báj
 contentType: prose
 ---
 
-Vánoční báj
+<section>
 
 Hvězda Vánoc je rozsvícena  
 a mágové znovu kráčejí  
@@ -47,3 +48,5 @@ a dům tu bude stát rozsvícen,
          a pomalu vpřed se sunoucí  
          v kolejích svých darů a písní a mrznoucích zimních  
                                                         polibků.
+
+</section>

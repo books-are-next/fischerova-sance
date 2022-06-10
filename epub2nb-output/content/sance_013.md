@@ -1,8 +1,9 @@
 ---
+title: "Tohle století kvete černě a\_zeleně"
 contentType: prose
 ---
 
-Tohle století kvete černě a zeleně
+<section>
 
 A ovšem všichni jsouce obrazy doby,  
 řešením její rovnice.  
@@ -42,3 +43,5 @@ bez šému na čele,
 šém jim vytrhl Bůh,  
 když se na ně  
                            zlobil!
+
+</section>

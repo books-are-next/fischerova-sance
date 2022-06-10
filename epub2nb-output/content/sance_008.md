@@ -1,8 +1,9 @@
 ---
+title: Báseň na narození syna
 contentType: prose
 ---
 
-Báseň na narození syna
+<section>
 
 Ráno stál na obloze tenký srpek měsíce.  
 Nebe bylo ještě modré, jen dole  
@@ -42,3 +43,5 @@ tichý neodkladný posel,
 dítě ho slyší, samo bílé jak yzop,  
 nepřevoditelné na nic předtím  
                                                   ani potom.
+
+</section>

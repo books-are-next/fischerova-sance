@@ -1,8 +1,9 @@
 ---
+title: Starý gnostický příběh
 contentType: prose
 ---
 
-Starý gnostický příběh
+<section>
 
 Desatero nebes  
 stvořených a odvozených  
@@ -40,3 +41,5 @@ s těmi nevýslovně smutnými
                                         tohoto světa,  
                 o říši barevných  
                                                  toulavých květin
+
+</section>

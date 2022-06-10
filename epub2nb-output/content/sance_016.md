@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+<section>
 
 Ale až za koncem a nejhloub  
 touha být jako všichni:  
@@ -16,3 +17,5 @@ na ulici Montmartru,
 já jsem taky chtěla klid a prachy  
 a jasné barvy kamenů pod vodou.  
 Jasné barvy kamenů pod vodou!
+
+</section>

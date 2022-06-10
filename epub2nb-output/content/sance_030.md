@@ -1,8 +1,9 @@
 ---
+title: Cesta lesem
 contentType: prose
 ---
 
-Cesta lesem
+<section>
 
 Cesta vede lesem  
 tam kde bydlí smrt  
@@ -23,3 +24,5 @@ Pak potká ženu
 a ta mu ukradne píseň  
 a zradí jeho milované  
                                              srdce
+
+</section>
