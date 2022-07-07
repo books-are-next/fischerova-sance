@@ -14,7 +14,7 @@ A pak se všecka ta sláva
 vylila do hrdla nebes  
 zatímco černí pardáli se plížili za kořistí  
 žluté oči tygrů rozbíjely tmu  
-                 na kusy z dětského dalekohledu  
+            na kusy z dětského dalekohledu  
 a ježci šustili pod keři, žrali žížaly, plivali listí.  
 I všichni netvoři chválili Hospodina  
 a ty, zrozený pod kometou a ve sluneční vichrnici  
@@ -31,17 +31,17 @@ se už zpátky nenavrátí —
 už nikdy nebudeš znovu žít mezi plovoucími květinami  
 a průhlednými stoly, v krajině slabik a zpěvů  
 na vnitřní straně očí: věci  
-                                          ztuhnou na lávu.
+            ztuhnou na lávu.
 
 Teď všecka ta sláva se vylévá  
 do hrdla nebes  
 a já jsem velká, šťastná, bílá jak yzop,  
 jak ten, komu bůh všecko  
-                                            odpustil.  
+            odpustil.  
 To za oknem je déšť:  
 tichý neodkladný posel,  
 dítě ho slyší, samo bílé jak yzop,  
 nepřevoditelné na nic předtím  
-                                                  ani potom.
+            ani potom.
 
 </section>

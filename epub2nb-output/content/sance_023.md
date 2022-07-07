@@ -7,7 +7,7 @@ contentType: prose
 
 a pod mračným nebem  
 zubatý štít střechy  
-                                     jako kulisa:  
+            jako kulisa:  
 kulisa perníkové chaloupky,  
 měsíc je reflektor  
           a ty ten měšťák, co se na to dívá!  
@@ -19,7 +19,7 @@ bydlet ve světě obitém knihami,
 aby neupadl —  
 zatímco stojí na nočním spánku dětí,  
            na zámku postaveném  
-                                                        z jejich dechu
+            z jejich dechu
 
 Budou opakovat tytéž chyby?  
 Ptát se po smyslu  
@@ -38,9 +38,9 @@ _Děti je namalovaly a teď
 kupují listí, prodávají písek  
 Hrají si, že levá ruka  
 dává peníze pravé ruce  
-                    za panenku z jitrocele  
-                    za nohu od bubáka  
-                    který je má rád! tak jako všichni  
+            za panenku z jitrocele  
+            za nohu od bubáka  
+            který je má rád! tak jako všichni  
 Děti dovedou měšťáky  
 až do bran království nebeského…_
 

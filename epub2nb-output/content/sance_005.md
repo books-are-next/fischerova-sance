@@ -9,25 +9,25 @@ Psát dopis mrtvému otci
 Hledat ve zdi tajemství  
 Počítat svoje viny a nedopočítat se  
 Bojovat s nemocí jako s tichou hloupou obludou,  
-                                                 jako se svým strachem  
-                                  místo bojovat s bohem a čestně —  
-                                                                                      neprohrát,  
-                                  bojovat s bohem i lidmi  
-                                                                                a neprohrát.
+            jako se svým strachem  
+            místo bojovat s bohem a čestně —  
+            neprohrát,  
+            bojovat s bohem i lidmi  
+            a neprohrát.
 
 Psát dopisy mrtvému otci,  
 myslet na mrtvé jako na vrata otvírající  
-                   budoucnost, tu veselou bílou rakev,  
-                   skříň na květiny, mnoho květin a hrdinů  
-                   na jejich špinavé prádlo  
-                   olepené jmény a statečnými skutky.  
+            budoucnost, tu veselou bílou rakev,  
+            skříň na květiny, mnoho květin a hrdinů  
+            na jejich špinavé prádlo  
+            olepené jmény a statečnými skutky.  
 Konečně zavrhnout to, co bylo: netryská z toho  
 světlo, jen odlesk,  
 světlo je v budoucnu nebo v přítomnu —  
-                   hledej, odkud jdou paprsky,  
-                   zkoumej úhel a přesný směr,  
-                   je to cesta,  
-                   vroubí ji rozkvetlé světelné rododendrony.
+            hledej, odkud jdou paprsky,  
+            zkoumej úhel a přesný směr,  
+            je to cesta,  
+            vroubí ji rozkvetlé světelné rododendrony.
 
 Minulost je paměť. Možná je živá, ale  
 neoživuje. Kam padá stín, ptej se,  
@@ -42,15 +42,15 @@ jak jámu s hašeným vápnem, jámu na mrtvé —
 ale není vidět  
 pod bílým práškem, nedá se spočítat,  
 zavražděné oči, vysezená odpoledne, rána plující  
-                                                                               na slabé kávě  
-                     do země Nebo, kde můžeš vidět všecko  
-                     jak to, co bylo, a ty sis to  
-                                                                     nezapamatoval.
+            na slabé kávě  
+            do země Nebo, kde můžeš vidět všecko  
+            jak to, co bylo, a ty sis to  
+            nezapamatoval.
 
 _Psát svému mrtvému otci  
        znamená psát otci, který teprv bude,  
 psát bohu, s kterým svedu boj  
-                                       a možná neprohraju._
+            a možná neprohraju._
 
 </section>
 
@@ -58,8 +58,8 @@ psát bohu, s kterým svedu boj
 
 _— Možná jsi už dávno prohrála, říká anděl,  
       ale já ho neposlouchám.  
-             Možná neprohraju, říkám si,  
-                                             ale  
-                                             svedu boj._
+            Možná neprohraju, říkám si,  
+            ale  
+            svedu boj._
 
 </section>

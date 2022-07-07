@@ -31,18 +31,18 @@ a chlapce běžícího po pěšině
 mimo moc klapajících mord draků  
 a v příběhu, který si sám složí  
 ze zeleného lesa a nebe a divokého  
-                                                                    povětří.  
+            povětří.  
 Vidí pět světů minulých a pět světů  
-                                             budoucích,  
+            budoucích,  
 oči zemřelých, ústa nezrozených,  
 touhy pomazaných… Vidí!  
 Města rostou jak žluté a zelené  
-                                     výhonky hořčice  
+            výhonky hořčice  
 a zase se bortí,  
 čas je prach a čas je hlína!  
 A ona má čas v břiše  
 a s ním pažravé, věčné  
-                                   město snu:  
+            město snu:  
 obraz chlapce na pláži u moře,  
 jak hledá zapomenuté autíčko v písku,  
 čas je přesýpací  
@@ -51,6 +51,6 @@ písečných hodin,
 bydlí nezjevná sláva stvoření,  
 vzduchoprázdno,  
 na jehlách křepčící  
-                                       přítomnost.
+            přítomnost.
 
 </section>
