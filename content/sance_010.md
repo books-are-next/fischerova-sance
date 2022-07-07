@@ -14,15 +14,15 @@ vrhali pochybnost jak stín,
 nevěděli, jak a za co se modlit,  
 ale modlili se vždycky —  
 za kuropění i v dračím svitu  
-                       továrních komínů,  
+            továrních komínů,  
 u prašivých, přežraných nemocničních koček  
 anebo doma  
-                          v krutém a bezútěšném světle rána.  
+            v krutém a bezútěšném světle rána.  
 Kdy úsvit je útes  
 plující mořem plochých ledových ker  
 s nápisy  
-                 Beznaděj Nevěra Násilí  
-                 Chlemstání Konec.  
+            Beznaděj Nevěra Násilí  
+            Chlemstání Konec.  
 A Konec, ale s koncem:  
 žádná veselá předpeklí,  
 anekdoty na pivě.  

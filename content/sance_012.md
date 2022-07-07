@@ -10,9 +10,9 @@ jsem chtěla být jiná:
 oblaka, rychlé povětří, roztrhané  
 kusy nebe a moře  
 tam v horizontu, který je  
-                                                 polibkem:  
+            polibkem:  
 polibkem oka co to vidí  
 a čisté přítomnosti zbavené citu  
-                                      a lidské paměti.
+            a lidské paměti.
 
 </section>
